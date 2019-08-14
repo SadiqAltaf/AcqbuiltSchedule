@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "AcqScheduleWebsite", "AcqScheduleWebsite\", "{8834DA9A-76A0-4F8E-A5DE-2DFF9CC98065}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_6578"
+		Debug.AspNetCompiler.PhysicalPath = "AcqScheduleWebsite\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_6578\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_6578"
+		Release.AspNetCompiler.PhysicalPath = "AcqScheduleWebsite\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_6578\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "6578"
+		SlnRelativePath = "AcqScheduleWebsite\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8834DA9A-76A0-4F8E-A5DE-2DFF9CC98065}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8834DA9A-76A0-4F8E-A5DE-2DFF9CC98065}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DFB413E-8C00-46CB-82D5-9361C0D10834}
+	EndGlobalSection
+EndGlobal
